@@ -1,2 +1,3 @@
-console.log('Loaded!');
 aleart("Welcome");
+console.log('Loaded!');
+
